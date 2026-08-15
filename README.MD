@@ -141,6 +141,20 @@ Gives Shield Insurance stakeholders a filterable, evidence-based view to priorit
   <em>Age Group Analysis — Customer behavior, settlement, and policy preference</em>
 </p>
 
+## Presentation Preview
+
+An 8-slide stakeholder deck (7 analytical slides + 1 Thank You) — Executive Summary → Business Questions → Overall Performance → Customer & Market Analysis → Sales Mode Performance → Customer Behavior by Age Group → Recommendations & Next Steps → Thank You. Full deck: [Shield Insurance Executive Dashboard.pptx](Shield%20Insurance%20Executive%20Dashboard.pptx).
+
+| Slide | Preview | Summary |
+|---|---|---|
+| **1. Executive Summary** | <img src="screenshots/executive_summary.png" width="320"> | Revenue and customer base grew strongly (₹989M, 26,841 customers, both ▲~18% MoM). Key shift: sales mix moving toward digital while Offline-Agent stays dominant. Delhi NCR and the 26–35 segment are the largest concentrations. |
+| **2. Business Questions** | <img src="screenshots/business_questions.png" width="320"> | Frames the 5 questions the analysis answers: business performance, customer profile, market performance, sales channels, and customer behavior by age. |
+| **3. Overall Performance** | <img src="screenshots/overall_performance.png" width="320"> | ₹989M revenue (▲18.40%), 26,841 customers (▲18.28%). Daily revenue and customer growth softened slightly (▼1.22%, ▼1.32%). Monthly trend peaked in March at ₹264M. |
+| **4. Customer & Market Analysis** | <img src="screenshots/customer%20and%20market.png" width="320"> | Delhi NCR is the largest market — ₹402M revenue, 11,007 customers. The 55+ segment stands out as high-value: just 12.8% of customers but 27.8% of revenue. |
+| **5. Sales Mode Performance** | <img src="screenshots/sales_mode.png" width="320"> | Offline-Agent remains the largest channel (55.67% of revenue) but its share is declining — from 63.6% to 44.8% (Nov–Apr) — while digital channels grew from 6.1% to 35.0%. |
+| **6. Customer Behavior by Age Group** | <img src="screenshots/customer_behavior.png" width="320"> | 26–35 is the largest segment by volume (9,168 customers, 34.2%). 55+ is the highest-value segment — ₹79,635 average premium and 71.98% expected settlement rate. |
+| **7. Recommendations & Next Steps** | <img src="screenshots/recommendations.png" width="320"> | Three actions: accelerate digital growth, protect and grow the 55+ segment, and deepen core markets (Delhi NCR + 26–35 acquisition). Expected outcomes: digital scale, customer value, market growth. |
+
 ## How to Access
 
 - 🎥 **Video walkthrough (public presentation):** [youtu.be/7iQ8janiMzI](https://youtu.be/7iQ8janiMzI)
