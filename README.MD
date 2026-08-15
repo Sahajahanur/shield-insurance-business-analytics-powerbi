@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shield_insurance_logo.png" width="100" alt="Shield Insurance logo">
+  <img src="screenshots/shield_insurance_logo.png" width="100" alt="Shield Insurance logo">
 </p>
 
 <h1 align="center">Shield Insurance Business Analytics</h1>
@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="https://youtu.be/7iQ8janiMzI">🎥 Video Walkthrough</a> •
-  <a href="#dashboard-preview">📊 Dashboard Preview</a> •
-  <a href="PROJECT_REPORT.pdf">📄 Full Project Report</a>
+  <a href="https://app.powerbi.com/groups/me/reports/9258cdb3-48ba-4dcd-bedb-755bdaeb1678/818c6d745e98be4c08e2?experience=power-bi">📊 Live Dashboard</a> •
+  <a href="#dashboard-preview">🖼️ Dashboard Preview</a> •
+  <a href="Shield_Insurance_Project_Report.pdf">📄 Full Project Report</a>
 </p>
 
 ---
@@ -123,19 +124,19 @@ Gives Shield Insurance stakeholders a filterable, evidence-based view to priorit
 ## Dashboard Preview
 
 <p align="center">
-  <img src="assets/final_general_view.png" width="800" alt="Shield Insurance General View dashboard">
+  <img src="screenshots/General%20View.png" width="800" alt="Shield Insurance General View dashboard">
   <br>
   <em>General View — Key Metrics, Trend, City & Age breakdowns</em>
 </p>
 
 <p align="center">
-  <img src="assets/final_sales_mode.png" width="800" alt="Shield Insurance Sales Mode Analysis dashboard">
+  <img src="screenshots/Sales%20Mode%20Analysispng.png" width="800" alt="Shield Insurance Sales Mode Analysis dashboard">
   <br>
   <em>Sales Mode Analysis — Channel split and monthly trend</em>
 </p>
 
 <p align="center">
-  <img src="assets/final_age_group.png" width="800" alt="Shield Insurance Age Group Analysis dashboard">
+  <img src="screenshots/Age%20Group%20Analysis.png" width="800" alt="Shield Insurance Age Group Analysis dashboard">
   <br>
   <em>Age Group Analysis — Customer behavior, settlement, and policy preference</em>
 </p>
@@ -143,8 +144,9 @@ Gives Shield Insurance stakeholders a filterable, evidence-based view to priorit
 ## How to Access
 
 - 🎥 **Video walkthrough (public presentation):** [youtu.be/7iQ8janiMzI](https://youtu.be/7iQ8janiMzI)
-- 📊 **Power BI Service report:** [Open report](https://app.powerbi.com/groups/me/reports/9258cdb3-48ba-4dcd-bedb-755bdaeb1678/818c6d745e98be4c08e2?experience=power-bi) *(personal workspace — requires access)*
-- 📄 **Full technical write-up:** [PROJECT_REPORT.pdf](PROJECT_REPORT.pdf)
+- 📊 **Live Power BI dashboard:** [Open live report](https://app.powerbi.com/groups/me/reports/9258cdb3-48ba-4dcd-bedb-755bdaeb1678/818c6d745e98be4c08e2?experience=power-bi) *(personal workspace — requires sign-in / access)*
+- 📄 **Full technical write-up:** [Shield_Insurance_Project_Report.pdf](Shield_Insurance_Project_Report.pdf)
+- 🖥️ **Presentation deck:** [Shield Insurance Executive Dashboard.pptx](Shield%20Insurance%20Executive%20Dashboard.pptx)
 
 > Raw datasets are **not published** in this repository in accordance with the internship's data-confidentiality guidelines.
 
