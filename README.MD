@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://youtu.be/7iQ8janiMzI">🎥 Video Walkthrough</a> •
-  <a href="https://app.powerbi.com/groups/me/reports/9258cdb3-48ba-4dcd-bedb-755bdaeb1678/818c6d745e98be4c08e2?experience=power-bi">📊 Live Dashboard</a> •
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMDBiZGQyYjEtNjE4Ny00NGZjLWI2ZDItMTY1M2I1MDgyYjI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">📊 Live Dashboard</a> •
   <a href="#dashboard-preview">🖼️ Dashboard Preview</a> •
   <a href="Shield_Insurance_Project_Report.pdf">📄 Full Project Report</a>
 </p>
